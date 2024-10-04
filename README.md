@@ -1,2 +1,5 @@
-# find_diagonal
-4 weights and bias
+# 4 weights and bias
+
+Проверяем, сможет ли нейрон выучить простой шаблон.
+
+Чтобы запустить код нужно скачать файл Plotnik.py, там лежит класс Plotnik.
